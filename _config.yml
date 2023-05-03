@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ritam Pal"
+title                    : "Debraj Midya"
 title_separator          : "-"
-name                     : &name "Ritam Pal"
-description              : &description "I am a Ph.D. student at IISER Pune, My research is supported by PMRF"
-url                      : https://ritams.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Debraj Midya"
+description              : &description "I am a Geophysicist, working at ONGC."
+url                      : https://debrajmidya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ritam Pal"
+  name             : "Debraj Midya"
   avatar           : "profile.jpeg
 "
-  bio              : "I am a Ph.D. student at IISER Pune. My research is supported by the Prime Minister's Research Fellowship."
-  location         : "Pune, Maharashtra"
+  bio              : "I am a Geophysicist, working at ONGC."
+  location         : "Vadodara, Gujarat"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=9_ndyPcAAAAJ&hl=en"
-  email            : "ritam.pal@students.iiserpune.ac.in"
-  researchgate     : "https://www.researchgate.net/profile/Ritam-Pal-3"
+#  googlescholar    : "https://scholar.google.com/citations?user=9_ndyPcAAAAJ&hl=en"
+#  email            : "ritam.pal@students.iiserpune.ac.in"
+#  researchgate     : "https://www.researchgate.net/profile/Ritam-Pal-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ritams"
+  github           : "debrajmidya"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ritam5013"
+#  twitter          : "ritam5013"
   vine             :
   weibo            :
   xing             :
