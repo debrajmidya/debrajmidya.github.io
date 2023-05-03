@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Research"
-    url: /publications/
+#  - title: "Research"
+#    url: /publications/
 #     - title: Research Interests
 #       url: /research_interests/
 
@@ -17,8 +17,8 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
 #   - title: "Guide"
 #     url: /markdown/
